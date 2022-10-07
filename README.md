@@ -22,6 +22,6 @@
 ||||8|11|12|16|21|22||||
 
 ### 2-Big-O gösterimini yazınız.
-> n--->dizinin uzunluğu
+> n -> dizinin uzunluğu
 
-O(n*(logn))  ---> O(6*(log6)) 
+O(n*(logn))  -> O(6*(log6)) 
